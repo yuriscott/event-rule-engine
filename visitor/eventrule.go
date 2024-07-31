@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 	"github.com/golang/glog"
-	"github.com/kubesphere/event-rule-engine/visitor/parser"
+	"github.com/yuriscott/event-rule-engine/visitor/parser"
 	"regexp"
 	"strconv"
 	"strings"

@@ -1,6 +1,6 @@
-module github.com/kubesphere/event-rule-engine
+module github.com/yuriscott/event-rule-engine
 
-go 1.19
+go 1.22
 
 require (
 	github.com/antlr/antlr4 v0.0.0-20190819145818-b43a4c3a8015
